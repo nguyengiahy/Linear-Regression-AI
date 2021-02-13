@@ -10,3 +10,10 @@ How to use:
    or python quadraticRegression.py</br>
    or python LRwithScikit.py
 <br/>
+
+Result:<br/></br>
+Linear:<br/>
+<img src="images/linear.png" width=300>
+<br/>
+Quadratic:<br/>
+<img src="images/quadratic.png" width=300>
