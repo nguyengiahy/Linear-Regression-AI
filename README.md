@@ -6,7 +6,7 @@ How to use:
 2. pip install numpy
 3. pip install matplotlib
 4. pip install sklearn
-4. python linearRegression.py
-   or python quadraticRegression.py
+4. python linearRegression.py</br>
+   or python quadraticRegression.py</br>
    or python LRwithScikit.py
 <br/>
